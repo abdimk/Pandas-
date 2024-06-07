@@ -1,6 +1,3 @@
-# Pandas-
-
-
 <h4>Data Science Project</h4>
 
 <h5>Group Name </h5>
